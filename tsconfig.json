@@ -4,6 +4,6 @@
         "allowSyntheticDefaultImports" : true,
         "allowJs": true,
     },
-    "include": ["./src/**/*.js", "./src/**/*.ts"],
+    "include": ["*.js", "*.ts"],
     "exclude": ["node_modules"],
 }
