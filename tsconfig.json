@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "outDir": "build",
+        "allowSyntheticDefaultImports" : true,
+        "allowJs": true,
+    },
+    "include": ["./src/**/*.js", "./src/**/*.ts"],
+    "exclude": ["node_modules"],
+}
